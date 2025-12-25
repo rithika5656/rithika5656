@@ -25,7 +25,7 @@ A classification system that predicts the type of glass based on its chemical co
 Trained using supervised ML algorithms
 Focus on accuracy comparison and model evaluation
 
-# Streak Status
+GitHub Streak
 <p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" /> </p>
 
 # Thanks for visiting my profile!
